@@ -2,6 +2,8 @@ binlog2sql
 ========================
 
 从MySQL binlog解析出你要的SQL。根据不同选项，你可以得到原始SQL、回滚SQL、去除主键的INSERT SQL等。
+mysqlbinlog教程
+https://www.thegeekstuff.com/2017/08/mysqlbinlog-examples/
 
 用途
 ===========
