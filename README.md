@@ -22,7 +22,7 @@ https://www.thegeekstuff.com/2017/08/mysqlbinlog-examples/
     * MySQL 5.6, 5.7
 
 
-安装
+安装（Ubuntu18.04）
 ==============
 
 ```
