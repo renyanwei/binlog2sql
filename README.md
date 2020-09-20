@@ -24,7 +24,8 @@ https://www.thegeekstuff.com/2017/08/mysqlbinlog-examples/
 
 安装（Ubuntu18.04）
 ==============
-
+提前更换国内源：https://developer.aliyun.com/mirror/ubuntu?spm=a2c6h.13651102.0.0.3e221b11aU6qiM
+提前安装python2和python-pip
 ```
 shell> git clone https://github.com/renyanwei/binlog2sql.git && cd binlog2sql
 shell> pip install -r requirements.txt
